@@ -1,0 +1,23 @@
+id = "summercamp-enhanced"
+name = "Summercamp Enhanced"
+version = "0.0.1"
+schema_version = 1
+description = "A higher-contrast enhanced version of Zed Legacy: Summercamp that preserves its warm neon palette"
+repository = "https://github.com/biancofla/summercamp-enhanced"
+authors = ["biancofla <flavio.biancospino@gmail.com>"]
+themes = ["themes/summercamp-enhanced.json"]
+icon_themes = []
+languages = []
+capabilities = []
+
+[lib]
+
+[grammars]
+
+[language_servers]
+
+[context_servers]
+
+[agent_servers]
+
+[slash_commands]
